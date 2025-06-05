@@ -13,7 +13,7 @@ Ein einfacher, moderner und responsiver Schulorganiser in HTML & CSS – perfekt
 
 ---
 
-## 🔧 Vorschau
+## 🔧 Entwickelt von
 
 ![Vorschau](https://i.postimg.cc/nLhPrLMH/1000072572-3643adb7b6957288cd73d569e60f8263-18-11-2023-12-35-17-20240415-181847-0000-Original.png)
 
