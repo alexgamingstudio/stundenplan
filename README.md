@@ -23,4 +23,4 @@ Ein einfacher, moderner und responsiver Schulorganiser in HTML & CSS – perfekt
 
 1. Projekt herunterladen oder klonen:
 ```bash
-git clone https://github.com/dein-nutzername/schulorganiser.git
+git clone https://github.com/alexgamingstudio/stundenplan
